@@ -1,0 +1,3 @@
+If you want,
+I can give you a visual diagram showing how tuples, lists,
+and sets differ and when to use each in a project. That would make it easier to decide. Would you like me to make that?

@@ -1,0 +1,15 @@
+# version : "3.8"
+
+services:
+  python-learn:              
+    image: python:3.12
+    container_name: python-learn
+    working_dir : /app
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty : true
+    entrypoint: ["python"]
+    
+    
+
